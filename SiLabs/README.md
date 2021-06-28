@@ -28,3 +28,11 @@ For more information, check out this thread:
 
 http://www.helifreak.com/showthread.php?t=390517
 
+Instruction:
+- Install [Ride7](http://support.raisonance.com/content/ride) then [Rkit51](http://support.raisonance.com/content/rkit-51)
+- [Silabs IDE](https://www.silabs.com/documents/login/software/mcu_ide.exe) e [Keil uVisio](https://www.silabs.com/documents/login/software/KeilC51_Install.exe)
+
+ -Silabs IDE -> Project -> Tool Chain Integration alterar o caminho dos executáveis para:
+   C:\Raisonance\Ride\bin\ma51.exe; C:\Raisonance\Ride\bin\rc51.exe; C:\Raisonance\Ride\bin\rc51.exe
+ -Project->Target Build Config-> Hex File generation alterar caminho para: C:\Raisonance\Ride\bin\oh51.exe
+

@@ -47,18 +47,18 @@ Eep_ESC_MCU:			DB	"#BLHELI#F310#   "	; Project and MCU tag (16 Bytes)
 
 MCU_48MHZ				EQU	0	; Set to 1 if MCU can run at 48MHz
 ONE_S_CAPABLE			EQU	0	; Set to 1 if ESC can operate at 1S
-PORT3_EXIST			EQU	1	; Set to 1 if MCU has port3
-COMP1_USED			EQU	0	; Set to 1 if MCU has comparator 1 and it is being used
+PORT3_EXIST				EQU	1	; Set to 1 if MCU has port3
+COMP1_USED				EQU	0	; Set to 1 if MCU has comparator 1 and it is being used
 LOCK_BYTE_ADDRESS_16K	EQU	3DFFh	; Address of lock byte if 16k flash size
 LOCK_BYTE_ADDRESS_8K	EQU	1FFFh	; Address of lock byte if 8k flash size
 HIGH_BEC_VOLTAGE		EQU	0	; Set to 1 or more if high BEC voltage is supported
 DAMPED_MODE_ENABLE		EQU	1	; Damped mode disabled
 NFETON_DELAY			EQU	8	; Wait delay from pfets off to nfets on
 PFETON_DELAY			EQU	10	; Wait delay from nfets off to pfets on
-ADC_LIMIT_L			EQU 	85	; Power supply measurement ADC value for which main motor power is limited (low byte)
-ADC_LIMIT_H			EQU	0	; Power supply measurement ADC value for which main motor power is limited (2 MSBs)
-TEMP_LIMIT			EQU 	168	; Temperature measurement ADC value for which main motor power is limited (low byte, assuming high byte is 1)
-TEMP_LIMIT_STEP		EQU	5	; Temperature measurement ADC value increment for which main motor power is further limited
+ADC_LIMIT_L				EQU 85	; Power supply measurement ADC value for which main motor power is limited (low byte)
+ADC_LIMIT_H				EQU	0	; Power supply measurement ADC value for which main motor power is limited (2 MSBs)
+TEMP_LIMIT				EQU 168	; Temperature measurement ADC value for which main motor power is limited (low byte, assuming high byte is 1)
+TEMP_LIMIT_STEP			EQU	5	; Temperature measurement ADC value increment for which main motor power is further limited
 
 ;**** **** **** **** ****
 ; ESC specific defaults

@@ -354,29 +354,29 @@ Turnigy_Plush_Nfet_25A_Main 		EQU 58
 Turnigy_Plush_Nfet_25A_Tail 		EQU 59   
 Turnigy_Plush_Nfet_25A_Multi 		EQU 60   
 Turnigy_Plush_Nfet_30A_Main 		EQU 61
-Turnigy_Plush_Nfet_30A_Tail 		EQU 62   
-Turnigy_Plush_Nfet_30A_Multi 		EQU 63   
+Turnigy_Plush_Nfet_30A_Tail 		EQU 62
+Turnigy_Plush_Nfet_30A_Multi 		EQU 63
 Turnigy_AE_20A_Main 			EQU 64
-Turnigy_AE_20A_Tail 			EQU 65   
-Turnigy_AE_20A_Multi 			EQU 66   
+Turnigy_AE_20A_Tail 			EQU 65
+Turnigy_AE_20A_Multi 			EQU 66
 Turnigy_AE_25A_Main 			EQU 67
-Turnigy_AE_25A_Tail 			EQU 68   
-Turnigy_AE_25A_Multi 			EQU 69   
+Turnigy_AE_25A_Tail 			EQU 68
+Turnigy_AE_25A_Multi 			EQU 69
 Turnigy_AE_30A_Main 			EQU 70
-Turnigy_AE_30A_Tail 			EQU 71   
-Turnigy_AE_30A_Multi 			EQU 72   
+Turnigy_AE_30A_Tail 			EQU 71
+Turnigy_AE_30A_Multi 			EQU 72
 Turnigy_AE_45A_Main 			EQU 73
-Turnigy_AE_45A_Tail 			EQU 74   
-Turnigy_AE_45A_Multi 			EQU 75   
-Turnigy_KForce_40A_Main 			EQU 76   
-Turnigy_KForce_40A_Tail 			EQU 77   
-Turnigy_KForce_40A_Multi 		EQU 78   
-Turnigy_KForce_70A_HV_Main 		EQU 79   
+Turnigy_AE_45A_Tail 			EQU 74
+Turnigy_AE_45A_Multi 			EQU 75
+Turnigy_KForce_40A_Main 			EQU 76
+Turnigy_KForce_40A_Tail 			EQU 77
+Turnigy_KForce_40A_Multi 		EQU 78
+Turnigy_KForce_70A_HV_Main 		EQU 79
 Turnigy_KForce_70A_HV_Tail 		EQU 80   
-Turnigy_KForce_70A_HV_Multi 		EQU 81   
-Turnigy_KForce_120A_HV_Main 		EQU 82   
-Turnigy_KForce_120A_HV_Tail 		EQU 83   
-Turnigy_KForce_120A_HV_Multi 		EQU 84   
+Turnigy_KForce_70A_HV_Multi 		EQU 81
+Turnigy_KForce_120A_HV_Main 		EQU 82
+Turnigy_KForce_120A_HV_Tail 		EQU 83
+Turnigy_KForce_120A_HV_Multi 		EQU 84
 Turnigy_KForce_120A_HV_v2_Main	EQU 85   
 Turnigy_KForce_120A_HV_v2_Tail 	EQU 86   
 Turnigy_KForce_120A_HV_v2_Multi 	EQU 87   
@@ -425,22 +425,22 @@ H_King_35A_Multi 				EQU 129
 H_King_50A_Main				EQU 130   
 H_King_50A_Tail 				EQU 131  
 H_King_50A_Multi 				EQU 132  
-Polaris_Thunder_12A_Main			EQU 133   
+Polaris_Thunder_12A_Main			EQU 133
 Polaris_Thunder_12A_Tail 		EQU 134  
 Polaris_Thunder_12A_Multi 		EQU 135  
-Polaris_Thunder_20A_Main			EQU 136   
-Polaris_Thunder_20A_Tail 		EQU 137  
-Polaris_Thunder_20A_Multi 		EQU 138  
-Polaris_Thunder_30A_Main			EQU 139   
+Polaris_Thunder_20A_Main			EQU 136
+Polaris_Thunder_20A_Tail 		EQU 137
+Polaris_Thunder_20A_Multi 		EQU 138
+Polaris_Thunder_30A_Main			EQU 139
 Polaris_Thunder_30A_Tail 		EQU 140  
 Polaris_Thunder_30A_Multi 		EQU 141  
-Polaris_Thunder_40A_Main			EQU 142   
+Polaris_Thunder_40A_Main			EQU 142
 Polaris_Thunder_40A_Tail 		EQU 143  
 Polaris_Thunder_40A_Multi 		EQU 144  
-Polaris_Thunder_60A_Main			EQU 145   
+Polaris_Thunder_60A_Main			EQU 145
 Polaris_Thunder_60A_Tail 		EQU 146  
 Polaris_Thunder_60A_Multi 		EQU 147  
-Polaris_Thunder_80A_Main			EQU 148   
+Polaris_Thunder_80A_Main			EQU 148
 Polaris_Thunder_80A_Tail 		EQU 149  
 Polaris_Thunder_80A_Multi 		EQU 150  
 Polaris_Thunder_100A_Main		EQU 151   
@@ -449,13 +449,13 @@ Polaris_Thunder_100A_Multi 		EQU 153
 Platinum_Pro_30A_Main			EQU 154   
 Platinum_Pro_30A_Tail 			EQU 155  
 Platinum_Pro_30A_Multi 			EQU 156  
-Platinum_Pro_150A_Main			EQU 157   
+Platinum_Pro_150A_Main			EQU 157
 Platinum_Pro_150A_Tail 			EQU 158  
 Platinum_Pro_150A_Multi 			EQU 159  
-Platinum_50Av3_Main				EQU 160   
+Platinum_50Av3_Main				EQU 160
 Platinum_50Av3_Tail 			EQU 161  
 Platinum_50Av3_Multi 			EQU 162  
-EAZY_3Av2_Main					EQU 163   
+EAZY_3Av2_Main					EQU 163
 EAZY_3Av2_Tail 				EQU 164  
 EAZY_3Av2_Multi 				EQU 165  
 Tarot_30A_Main					EQU 166   
@@ -464,37 +464,37 @@ Tarot_30A_Multi 				EQU 168
 SkyIII_30A_Main				EQU 169   
 SkyIII_30A_Tail 				EQU 170  
 SkyIII_30A_Multi 				EQU 171  
-EMAX_20A_Main					EQU 172   
-EMAX_20A_Tail 					EQU 173  
-EMAX_20A_Multi 				EQU 174  
-EMAX_40A_Main					EQU 175   
-EMAX_40A_Tail 					EQU 176  
-EMAX_40A_Multi 				EQU 177  
-EMAX_Nano_20A_Main				EQU 178   
-EMAX_Nano_20A_Tail 				EQU 179  
-EMAX_Nano_20A_Multi 			EQU 180  
-EMAX_Lightning_20A_Main			EQU 181   
-EMAX_Lightning_20A_Tail 			EQU 182  
-EMAX_Lightning_20A_Multi 		EQU 183  
-XRotor_10A_Main				EQU 184   
-XRotor_10A_Tail 				EQU 185  
-XRotor_10A_Multi 				EQU 186  
-XRotor_20A_Main				EQU 187   
-XRotor_20A_Tail 				EQU 188  
-XRotor_20A_Multi 				EQU 189  
-XRotor_40A_Main				EQU 190   
-XRotor_40A_Tail 				EQU 191  
-XRotor_40A_Multi 				EQU 192  
-MDRX62H_Main					EQU 193   
-MDRX62H_Tail 					EQU 194  
-MDRX62H_Multi 					EQU 195  
-RotorGeeks_20A_Main				EQU 196   
-RotorGeeks_20A_Tail 			EQU 197  
-RotorGeeks_20A_Multi 			EQU 198  
-RotorGeeks_20A_Plus_Main			EQU 199   
+EMAX_20A_Main					EQU 172
+EMAX_20A_Tail 					EQU 173
+EMAX_20A_Multi 				EQU 174
+EMAX_40A_Main					EQU 175
+EMAX_40A_Tail 					EQU 176
+EMAX_40A_Multi 				EQU 177
+EMAX_Nano_20A_Main				EQU 178
+EMAX_Nano_20A_Tail 				EQU 179
+EMAX_Nano_20A_Multi 			EQU 180
+EMAX_Lightning_20A_Main			EQU 181
+EMAX_Lightning_20A_Tail 			EQU 182
+EMAX_Lightning_20A_Multi 		EQU 183
+XRotor_10A_Main				EQU 184
+XRotor_10A_Tail 				EQU 185
+XRotor_10A_Multi 				EQU 186
+XRotor_20A_Main				EQU 187
+XRotor_20A_Tail 				EQU 188
+XRotor_20A_Multi 				EQU 189
+XRotor_40A_Main				EQU 190
+XRotor_40A_Tail 				EQU 191
+XRotor_40A_Multi 				EQU 192
+MDRX62H_Main					EQU 193
+MDRX62H_Tail 					EQU 194
+MDRX62H_Multi 					EQU 195
+RotorGeeks_20A_Main				EQU 196
+RotorGeeks_20A_Tail 			EQU 197
+RotorGeeks_20A_Multi 			EQU 198
+RotorGeeks_20A_Plus_Main			EQU 199
 RotorGeeks_20A_Plus_Tail 		EQU 200  
 RotorGeeks_20A_Plus_Multi 		EQU 201  
-Flycolor_Fairy_6A_Main			EQU 202   
+Flycolor_Fairy_6A_Main			EQU 202
 Flycolor_Fairy_6A_Tail 			EQU 203  
 Flycolor_Fairy_6A_Multi 			EQU 204  
 Flycolor_Fairy_30A_Main			EQU 205   
@@ -503,95 +503,95 @@ Flycolor_Fairy_30A_Multi 		EQU 207
 Flycolor_Fairy_V2_30A_Main		EQU 208
 Flycolor_Fairy_V2_30A_Tail 		EQU 209  
 Flycolor_Fairy_V2_30A_Multi 		EQU 210 
-Flycolor_Raptor_20A_Main			EQU 211   
+Flycolor_Raptor_20A_Main			EQU 211
 Flycolor_Raptor_20A_Tail 		EQU 212  
 Flycolor_Raptor_20A_Multi 		EQU 213  
 Flycolor_Raptor_390_20A_Main		EQU 214
-Flycolor_Raptor_390_20A_Tail 		EQU 215  
-Flycolor_Raptor_390_20A_Multi 	EQU 216  
-FVT_Littlebee_12A_Main			EQU 217  
-FVT_Littlebee_12A_Tail			EQU 218  
-FVT_Littlebee_12A_Multi			EQU 219  
-FVT_Littlebee_20A_Main			EQU 220  
-FVT_Littlebee_20A_Tail			EQU 221  
-FVT_Littlebee_20A_Multi			EQU 222  
-FVT_Littlebee_20A_Pro_Main		EQU 223  
-FVT_Littlebee_20A_Pro_Tail		EQU 224  
-FVT_Littlebee_20A_Pro_Multi		EQU 225  
-FVT_Littlebee_30A_Main			EQU 226  
-FVT_Littlebee_30A_Tail			EQU 227  
-FVT_Littlebee_30A_Multi			EQU 228  
-Graupner_Ultra_20A_Main			EQU 229  
-Graupner_Ultra_20A_Tail			EQU 230  
-Graupner_Ultra_20A_Multi			EQU 231  
-F85_3A_Main					EQU 232  
-F85_3A_Tail					EQU 233  
-F85_3A_Multi					EQU 234  
-ZTW_Spider_Pro_20A_Main			EQU 235  
-ZTW_Spider_Pro_20A_Tail			EQU 236  
-ZTW_Spider_Pro_20A_Multi			EQU 237  
-ZTW_Spider_Pro_20A_Premium_Main	EQU 238  
-ZTW_Spider_Pro_20A_Premium_Tail	EQU 239  
-ZTW_Spider_Pro_20A_Premium_Multi	EQU 240  
-ZTW_Spider_Pro_20A_HV_Main		EQU 241  
-ZTW_Spider_Pro_20A_HV_Tail		EQU 242  
-ZTW_Spider_Pro_20A_HV_Multi		EQU 243  
-ZTW_Spider_Pro_30A_HV_Main		EQU 244  
-ZTW_Spider_Pro_30A_HV_Tail		EQU 245  
-ZTW_Spider_Pro_30A_HV_Multi		EQU 246  
-DYS_XM20A_Main					EQU 247  
-DYS_XM20A_Tail					EQU 248  
-DYS_XM20A_Multi				EQU 249  
-Oversky_MR_20A_Main				EQU 250  
-Oversky_MR_20A_Tail				EQU 251  
-Oversky_MR_20A_Multi			EQU 252  
-Oversky_MR_20A_Pro_Main			EQU 253  
-Oversky_MR_20A_Pro_Tail			EQU 254  
-Oversky_MR_20A_Pro_Multi			EQU 255  
-TBS_Cube_12A_Main				EQU 256 
-TBS_Cube_12A_Tail				EQU 257  
-TBS_Cube_12A_Multi				EQU 258  
-DALRC_XR20A_Main				EQU 259  
-DALRC_XR20A_Tail				EQU 260  
-DALRC_XR20A_Multi				EQU 261  
-AIKON_Boltlite_30A_Main			EQU 262  
-AIKON_Boltlite_30A_Tail			EQU 263  
+Flycolor_Raptor_390_20A_Tail 		EQU 215
+Flycolor_Raptor_390_20A_Multi 	EQU 216
+FVT_Littlebee_12A_Main			EQU 217
+FVT_Littlebee_12A_Tail			EQU 218
+FVT_Littlebee_12A_Multi			EQU 219
+FVT_Littlebee_20A_Main			EQU 220
+FVT_Littlebee_20A_Tail			EQU 221
+FVT_Littlebee_20A_Multi			EQU 222
+FVT_Littlebee_20A_Pro_Main		EQU 223
+FVT_Littlebee_20A_Pro_Tail		EQU 224
+FVT_Littlebee_20A_Pro_Multi		EQU 225
+FVT_Littlebee_30A_Main			EQU 226
+FVT_Littlebee_30A_Tail			EQU 227
+FVT_Littlebee_30A_Multi			EQU 228
+Graupner_Ultra_20A_Main			EQU 229
+Graupner_Ultra_20A_Tail			EQU 230
+Graupner_Ultra_20A_Multi			EQU 231
+F85_3A_Main					EQU 232
+F85_3A_Tail					EQU 233
+F85_3A_Multi					EQU 234
+ZTW_Spider_Pro_20A_Main			EQU 235
+ZTW_Spider_Pro_20A_Tail			EQU 236
+ZTW_Spider_Pro_20A_Multi			EQU 237
+ZTW_Spider_Pro_20A_Premium_Main	EQU 238
+ZTW_Spider_Pro_20A_Premium_Tail	EQU 239
+ZTW_Spider_Pro_20A_Premium_Multi	EQU 240
+ZTW_Spider_Pro_20A_HV_Main		EQU 241
+ZTW_Spider_Pro_20A_HV_Tail		EQU 242
+ZTW_Spider_Pro_20A_HV_Multi		EQU 243
+ZTW_Spider_Pro_30A_HV_Main		EQU 244
+ZTW_Spider_Pro_30A_HV_Tail		EQU 245
+ZTW_Spider_Pro_30A_HV_Multi		EQU 246
+DYS_XM20A_Main					EQU 247
+DYS_XM20A_Tail					EQU 248
+DYS_XM20A_Multi				EQU 249
+Oversky_MR_20A_Main				EQU 250
+Oversky_MR_20A_Tail				EQU 251
+Oversky_MR_20A_Multi			EQU 252
+Oversky_MR_20A_Pro_Main			EQU 253
+Oversky_MR_20A_Pro_Tail			EQU 254
+Oversky_MR_20A_Pro_Multi			EQU 255
+TBS_Cube_12A_Main				EQU 256
+TBS_Cube_12A_Tail				EQU 257
+TBS_Cube_12A_Multi				EQU 258
+DALRC_XR20A_Main				EQU 259
+DALRC_XR20A_Tail				EQU 260
+DALRC_XR20A_Multi				EQU 261
+AIKON_Boltlite_30A_Main			EQU 262
+AIKON_Boltlite_30A_Tail			EQU 263
 AIKON_Boltlite_30A_Multi			EQU 264
-Align_MR25_15A_Main				EQU 265   
-Align_MR25_15A_Tail 			EQU 266  
-Align_MR25_15A_Multi 			EQU 267   
-Servoking_Monster_30A_Main		EQU 268   
-Servoking_Monster_30A_Tail 		EQU 269  
-Servoking_Monster_30A_Multi 		EQU 270   
+Align_MR25_15A_Main				EQU 265
+Align_MR25_15A_Tail 			EQU 266
+Align_MR25_15A_Multi 			EQU 267
+Servoking_Monster_30A_Main		EQU 268
+Servoking_Monster_30A_Tail 		EQU 269
+Servoking_Monster_30A_Multi 		EQU 270
 Servoking_Monster_30A_Pro_Main	EQU 271   
-Servoking_Monster_30A_Pro_Tail	EQU 272  
-Servoking_Monster_30A_Pro_Multi	EQU 273   
-Servoking_Monster_70A_Pro_Main	EQU 274   
-Servoking_Monster_70A_Pro_Tail	EQU 275  
-Servoking_Monster_70A_Pro_Multi	EQU 276   
-Servoking_Monster_80A_Main		EQU 277   
-Servoking_Monster_80A_Tail 		EQU 278  
-Servoking_Monster_80A_Multi 		EQU 279   
-HTIRC_Hummingbird_12A_Main		EQU 280   
-HTIRC_Hummingbird_12A_Tail 		EQU 281  
-HTIRC_Hummingbird_12A_Multi 		EQU 282   
-HTIRC_Hummingbird_20A_Main		EQU 283   
-HTIRC_Hummingbird_20A_Tail 		EQU 284  
-HTIRC_Hummingbird_20A_Multi 		EQU 285   
-HTIRC_Hummingbird_30A_Pro_Main	EQU 286   
-HTIRC_Hummingbird_30A_Pro_Tail	EQU 287  
-HTIRC_Hummingbird_30A_Pro_Multi	EQU 288   
-  
+Servoking_Monster_30A_Pro_Tail	EQU 272
+Servoking_Monster_30A_Pro_Multi	EQU 273
+Servoking_Monster_70A_Pro_Main	EQU 274
+Servoking_Monster_70A_Pro_Tail	EQU 275
+Servoking_Monster_70A_Pro_Multi	EQU 276
+Servoking_Monster_80A_Main		EQU 277
+Servoking_Monster_80A_Tail 		EQU 278
+Servoking_Monster_80A_Multi 		EQU 279
+HTIRC_Hummingbird_12A_Main		EQU 280
+HTIRC_Hummingbird_12A_Tail 		EQU 281
+HTIRC_Hummingbird_12A_Multi 		EQU 282
+HTIRC_Hummingbird_20A_Main		EQU 283
+HTIRC_Hummingbird_20A_Tail 		EQU 284
+HTIRC_Hummingbird_20A_Multi 		EQU 285
+HTIRC_Hummingbird_30A_Pro_Main	EQU 286
+HTIRC_Hummingbird_30A_Pro_Tail	EQU 287
+HTIRC_Hummingbird_30A_Pro_Multi	EQU 288
+
 
 
 ;**** **** **** **** ****
 ; Select the ESC and mode to use (or unselect all for use with external batch compile file)
-;BESCNO EQU XP_3A_Main 
+;BESCNO EQU XP_3A_Main
 ;BESCNO EQU XP_3A_Tail
 ;BESCNO EQU XP_3A_Multi
 ;BESCNO EQU XP_7A_Main
 ;BESCNO EQU XP_7A_Tail
-;BESCNO EQU XP_7A_Multi 	
+;BESCNO EQU XP_7A_Multi
 ;BESCNO EQU XP_7A_Fast_Main
 ;BESCNO EQU XP_7A_Fast_Tail
 ;BESCNO EQU XP_7A_Fast_Multi
@@ -607,7 +607,7 @@ HTIRC_Hummingbird_30A_Pro_Multi	EQU 288
 ;BESCNO EQU XP_35A_SW_Main
 ;BESCNO EQU XP_35A_SW_Tail 
 ;BESCNO EQU XP_35A_SW_Multi
-;BESCNO EQU DP_3A_Main 						
+;BESCNO EQU DP_3A_Main
 ;BESCNO EQU DP_3A_Tail 
 ;BESCNO EQU DP_3A_Multi 
 ;BESCNO EQU Supermicro_3p5A_Main
@@ -633,7 +633,7 @@ HTIRC_Hummingbird_30A_Pro_Multi	EQU 288
 ;BESCNO EQU Turnigy_Plush_30A_Multi
 ;BESCNO EQU Turnigy_Plush_40A_Main 
 ;BESCNO EQU Turnigy_Plush_40A_Tail 
-;BESCNO EQU Turnigy_Plush_40A_Multi 
+BESCNO EQU Turnigy_Plush_40A_Multi 
 ;BESCNO EQU Turnigy_Plush_60A_Main
 ;BESCNO EQU Turnigy_Plush_60A_Tail 
 ;BESCNO EQU Turnigy_Plush_60A_Multi
@@ -841,29 +841,29 @@ HTIRC_Hummingbird_30A_Pro_Multi	EQU 288
 ;BESCNO EQU Oversky_MR_20A_Pro_Main
 ;BESCNO EQU Oversky_MR_20A_Pro_Tail
 ;BESCNO EQU Oversky_MR_20A_Pro_Multi
-;BESCNO EQU TBS_Cube_12A_Main	 
-;BESCNO EQU TBS_Cube_12A_Tail	  
+;BESCNO EQU TBS_Cube_12A_Main
+;BESCNO EQU TBS_Cube_12A_Tail
 ;BESCNO EQU TBS_Cube_12A_Multi 
-;BESCNO EQU DALRC_XR20A_Main	 
-;BESCNO EQU DALRC_XR20A_Tail	  
-;BESCNO EQU DALRC_XR20A_Multi 	 
-;BESCNO EQU AIKON_Boltlite_30A_Main	 
-;BESCNO EQU AIKON_Boltlite_30A_Tail	  
+;BESCNO EQU DALRC_XR20A_Main
+;BESCNO EQU DALRC_XR20A_Tail
+;BESCNO EQU DALRC_XR20A_Multi
+;BESCNO EQU AIKON_Boltlite_30A_Main
+;BESCNO EQU AIKON_Boltlite_30A_Tail
 ;BESCNO EQU AIKON_Boltlite_30A_Multi 
-;BESCNO EQU Align_MR25_15A_Main	 
-;BESCNO EQU Align_MR25_15A_Tail	  
+;BESCNO EQU Align_MR25_15A_Main
+;BESCNO EQU Align_MR25_15A_Tail
 ;BESCNO EQU Align_MR25_15A_Multi
-;BESCNO EQU Servoking_Monster_30A_Main	 
-;BESCNO EQU Servoking_Monster_30A_Tail	  
-;BESCNO EQU Servoking_Monster_30A_Multi 
-;BESCNO EQU Servoking_Monster_30A_Pro_Main	 
-;BESCNO EQU Servoking_Monster_30A_Pro_Tail	  
-;BESCNO EQU Servoking_Monster_30A_Pro_Multi 
-;BESCNO EQU Servoking_Monster_70A_Pro_Main	 
-;BESCNO EQU Servoking_Monster_70A_Pro_Tail	  
+;BESCNO EQU Servoking_Monster_30A_Main
+;BESCNO EQU Servoking_Monster_30A_Tail
+;BESCNO EQU Servoking_Monster_30A_Multi
+;BESCNO EQU Servoking_Monster_30A_Pro_Main
+;BESCNO EQU Servoking_Monster_30A_Pro_Tail
+;BESCNO EQU Servoking_Monster_30A_Pro_Multi
+;BESCNO EQU Servoking_Monster_70A_Pro_Main
+;BESCNO EQU Servoking_Monster_70A_Pro_Tail
 ;BESCNO EQU Servoking_Monster_70A_Pro_Multi
-;BESCNO EQU Servoking_Monster_80A_Main	 
-;BESCNO EQU Servoking_Monster_80A_Tail	  
+;BESCNO EQU Servoking_Monster_80A_Main
+;BESCNO EQU Servoking_Monster_80A_Tail
 ;BESCNO EQU Servoking_Monster_80A_Multi 
 ;BESCNO EQU HTIRC_Hummingbird_12A_Main	 
 ;BESCNO EQU HTIRC_Hummingbird_12A_Tail 	 
@@ -2385,15 +2385,15 @@ DEFAULT_PGM_MULTI_BEACON_DELAY	EQU 4 	; 1=1m		2=2m			3=5m			4=10m		5=Infinite
 DEFAULT_PGM_MULTI_PWM_DITHER		EQU 3 	; 1=Off		2=3			3=7			4=15			5=31
 
 ; COMMON
-DEFAULT_PGM_ENABLE_TX_PROGRAM 	EQU 1 	; 1=Enabled 	0=Disabled
-DEFAULT_PGM_PPM_MIN_THROTTLE		EQU 37	; 4*37+1000=1148
-DEFAULT_PGM_PPM_MAX_THROTTLE		EQU 208	; 4*208+1000=1832
-DEFAULT_PGM_PPM_CENTER_THROTTLE	EQU 122	; 4*122+1000=1488 (used in bidirectional mode)
-DEFAULT_PGM_BEC_VOLTAGE_HIGH		EQU 0	; 0=Low		1+= High or higher	
-DEFAULT_PGM_ENABLE_TEMP_PROT	 	EQU 1 	; 1=Enabled 	0=Disabled
-DEFAULT_PGM_ENABLE_POWER_PROT 	EQU 1 	; 1=Enabled 	0=Disabled
+DEFAULT_PGM_ENABLE_TX_PROGRAM 	EQU 0 	; 1=Enabled 	0=Disabled
+DEFAULT_PGM_PPM_MIN_THROTTLE		EQU 35	; 4*37+1000=1148 (Alterado para 1140)
+DEFAULT_PGM_PPM_MAX_THROTTLE		EQU 235	; 4*208+1000=1832 (Alterado para 1940)
+DEFAULT_PGM_PPM_CENTER_THROTTLE	EQU 130	; 4*122+1000=1488 (used in bidirectional mode, alterado para 1520)
+DEFAULT_PGM_BEC_VOLTAGE_HIGH		EQU 0		; 0=Low		1+= High or higher	
+DEFAULT_PGM_ENABLE_TEMP_PROT	 	EQU 0 	; 1=Enabled 	0=Disabled
+DEFAULT_PGM_ENABLE_POWER_PROT 	EQU 0 	; 1=Enabled 	0=Disabled	; Low RPM Power Prot.
 DEFAULT_PGM_ENABLE_PWM_INPUT	 	EQU 0 	; 1=Enabled 	0=Disabled
-DEFAULT_PGM_BRAKE_ON_STOP	 	EQU 0 	; 1=Enabled 	0=Disabled
+DEFAULT_PGM_BRAKE_ON_STOP	 			EQU 0 	; 1=Enabled 	0=Disabled
 
 ;**** **** **** **** ****
 ; Constant definitions for main
@@ -2404,7 +2404,7 @@ RCP_TIMEOUT_PPM	EQU	10	; Number of timer2H overflows (about 32ms) before conside
 RCP_TIMEOUT		EQU	64	; Number of timer2L overflows (about 128us) before considering rc pulse lost
 RCP_SKIP_RATE		EQU 	32	; Number of timer2L overflows (about 128us) before reenabling rc pulse detection
 RCP_MIN			EQU 	0	; This is minimum RC pulse length
-RCP_MAX			EQU 	255	; This is maximum RC pulse length
+RCP_MAX			EQU 	255	; This is maximum RC pulse length (255*4)+1000
 RCP_VALIDATE		EQU 	2	; Require minimum this pulse length to validate RC pulse
 RCP_STOP			EQU 	1	; Stop motor at or below this pulse length
 RCP_STOP_LIMIT		EQU 	250	; Stop motor if this many timer2H overflows (~32ms) are below stop limit
@@ -2444,12 +2444,12 @@ RCP_TIMEOUT_PPM	EQU	10	; Number of timer2H overflows (about 32ms) before conside
 RCP_TIMEOUT		EQU 	24	; Number of timer2L overflows (about 128us) before considering rc pulse lost
 RCP_SKIP_RATE		EQU 	6	; Number of timer2L overflows (about 128us) before reenabling rc pulse detection
 RCP_MIN			EQU 	0	; This is minimum RC pulse length
-RCP_MAX			EQU 	255	; This is maximum RC pulse length
+RCP_MAX			EQU 	255	; This is maximum RC pulse length (255*4)+1000
 RCP_VALIDATE		EQU 	2	; Require minimum this pulse length to validate RC pulse
 RCP_STOP			EQU 	1	; Stop motor at or below this pulse length
 RCP_STOP_LIMIT		EQU 	250	; Stop motor if this many timer2H overflows (~32ms) are below stop limit
 
-PWM_START			EQU	50 	; PWM used as max power during start
+PWM_START			EQU	70 	; PWM used as max power during start (50 original) Representa o range de atuaï¿½ï¿½o do "Startup power" que vai de 0,031 ate 1,5
 
 COMM_TIME_MIN		EQU 	1	; Minimum time (in us) for commutation wait
 
@@ -2472,20 +2472,21 @@ Temp8		EQU	R7
 ; Register definitions
 DSEG AT 20h					; Variables segment 
 
-Bit_Access:				DS	1		; MUST BE AT THIS ADDRESS. Variable at bit accessible address (for non interrupt routines)
+Bit_Access:				DS	1			; MUST BE AT THIS ADDRESS. Variable at bit accessible address (for non interrupt routines)
 Bit_Access_Int:			DS	1		; Variable at bit accessible address (for interrupts)
 
 Requested_Pwm:				DS	1		; Requested pwm (from RC pulse value)
 Governor_Req_Pwm:			DS	1		; Governor requested pwm (sets governor target)
-Current_Pwm:				DS	1		; Current pwm
+Current_Pwm:				DS	1			; Current pwm
 Current_Pwm_Limited:		DS	1		; Current pwm that is limited
 Current_Pwm_Lim_Dith:		DS	1		; Current pwm that is limited and dithered (applied to the motor output)
 Rcp_Prev_Edge_L:			DS	1		; RC pulse previous edge timer3 timestamp (lo byte)
 Rcp_Prev_Edge_H:			DS	1		; RC pulse previous edge timer3 timestamp (hi byte)
-Rcp_Outside_Range_Cnt:		DS	1		; RC pulse outside range counter (incrementing) 
+Rcp_Outside_Range_Cnt:	DS	1		; RC pulse outside range counter (incrementing) 
 Rcp_Timeout_Cntd:			DS	1		; RC pulse timeout counter (decrementing) 
 Rcp_Skip_Cntd:				DS	1		; RC pulse skip counter (decrementing) 
 
+; Sao bits acessados exemplo: Flags0.PWM_ON
 Flags0:					DS	1    	; State flags. Reset upon init_start
 T3_PENDING				EQU 	0		; Timer3 pending flag
 RCP_MEAS_PWM_FREQ			EQU	1		; Measure RC pulse pwm frequency
@@ -2625,7 +2626,7 @@ Flash_Key_1:				DS	1		; Flash key one
 Flash_Key_2:				DS	1		; Flash key two
 
 ; Indirect addressing data segment. The variables below must be in this sequence
-ISEG AT 080h					
+ISEG AT 080h
 Pgm_Gov_P_Gain:			DS	1		; Programmed governor P gain
 Pgm_Gov_I_Gain:			DS	1		; Programmed governor I gain
 Pgm_Gov_Mode:				DS	1		; Programmed governor mode
@@ -2633,8 +2634,8 @@ Pgm_Low_Voltage_Lim:		DS	1		; Programmed low voltage limit
 Pgm_Motor_Gain:			DS	1		; Programmed motor gain
 Pgm_Motor_Idle:			DS	1		; Programmed motor idle speed
 Pgm_Startup_Pwr:			DS	1		; Programmed startup power
-Pgm_Pwm_Freq:				DS	1		; Programmed pwm frequency
-Pgm_Direction:				DS	1		; Programmed rotation direction
+Pgm_Pwm_Freq:				DS	1		; Programmed pwm frequency, 1=High 		2=Low		3=DampedLight
+Pgm_Direction:				DS	1		; Programmed rotation direction, 1=Normal 	2=Reversed	3=Bidirectional
 Pgm_Input_Pol:				DS	1		; Programmed input pwm polarity
 Initialized_L_Dummy:		DS	1		; Place holder
 Initialized_H_Dummy:		DS	1		; Place holder
@@ -2669,6 +2670,7 @@ Pgm_Gov_P_Gain_Decoded:		DS	1		; Programmed governor decoded P gain
 Pgm_Gov_I_Gain_Decoded:		DS	1		; Programmed governor decoded I gain
 Pgm_Startup_Pwr_Decoded:		DS	1		; Programmed startup power decoded
 
+; End at 0hA7
 
 ; Indirect addressing data segment
 ISEG AT 0D0h					
@@ -2677,9 +2679,9 @@ Tag_Temporary_Storage:		DS	48		; Temporary storage for tags when updating "Eepro
 
 ;**** **** **** **** ****
 CSEG AT 1A00h            ; "Eeprom" segment
-EEPROM_FW_MAIN_REVISION		EQU	14		; Main revision of the firmware
-EEPROM_FW_SUB_REVISION		EQU	9		; Sub revision of the firmware
-EEPROM_LAYOUT_REVISION		EQU	21		; Revision of the EEPROM layout
+EEPROM_FW_MAIN_REVISION		EQU	14		; Main revision of the firmware, must be 8bit number
+EEPROM_FW_SUB_REVISION		EQU	10		; Sub revision of the firmware, must be 8bit number
+EEPROM_LAYOUT_REVISION		EQU	21		; Revision of the EEPROM layout, must be 8bit number
 
 Eep_FW_Main_Revision:		DB	EEPROM_FW_MAIN_REVISION			; EEPROM firmware main revision number
 Eep_FW_Sub_Revision:		DB	EEPROM_FW_SUB_REVISION			; EEPROM firmware sub revision number
@@ -2690,10 +2692,10 @@ Eep_Pgm_Gov_P_Gain:			DB	DEFAULT_PGM_MAIN_P_GAIN			; EEPROM copy of programmed g
 Eep_Pgm_Gov_I_Gain:			DB	DEFAULT_PGM_MAIN_I_GAIN			; EEPROM copy of programmed governor I gain
 Eep_Pgm_Gov_Mode:			DB	DEFAULT_PGM_MAIN_GOVERNOR_MODE	; EEPROM copy of programmed governor mode
 Eep_Pgm_Low_Voltage_Lim:		DB	DEFAULT_PGM_MAIN_LOW_VOLTAGE_LIM	; EEPROM copy of programmed low voltage limit
-_Eep_Pgm_Motor_Gain:		DB	0FFh							
-_Eep_Pgm_Motor_Idle:		DB	0FFh							
+_Eep_Pgm_Motor_Gain:		DB	0FFh
+_Eep_Pgm_Motor_Idle:		DB	0FFh
 Eep_Pgm_Startup_Pwr:		DB	DEFAULT_PGM_MAIN_STARTUP_PWR		; EEPROM copy of programmed startup power
-Eep_Pgm_Pwm_Freq:			DB	DEFAULT_PGM_MAIN_PWM_FREQ		; EEPROM copy of programmed pwm frequency
+Eep_Pgm_Pwm_Freq:			DB	DEFAULT_PGM_MAIN_PWM_FREQ		; EEPROM copy of programmed pwm frequency, 1=High 		2=Low		3=DampedLight
 Eep_Pgm_Direction:			DB	DEFAULT_PGM_MAIN_DIRECTION		; EEPROM copy of programmed rotation direction
 Eep_Pgm_Input_Pol:			DB	DEFAULT_PGM_MAIN_RCP_PWM_POL		; EEPROM copy of programmed input polarity
 Eep_Initialized_L:			DB	0A5h							; EEPROM initialized signature low byte
@@ -2701,35 +2703,35 @@ Eep_Initialized_H:			DB	05Ah							; EEPROM initialized signature high byte
 Eep_Enable_TX_Program:		DB	DEFAULT_PGM_ENABLE_TX_PROGRAM		; EEPROM TX programming enable
 Eep_Main_Rearm_Start:		DB	DEFAULT_PGM_MAIN_REARM_START		; EEPROM re-arming main enable
 Eep_Pgm_Gov_Setup_Target:	DB	DEFAULT_PGM_MAIN_GOV_SETUP_TARGET	; EEPROM main governor setup target
-_Eep_Pgm_Startup_Rpm:		DB	0FFh	
-_Eep_Pgm_Startup_Accel:		DB	0FFh	
-_Eep_Pgm_Volt_Comp:			DB	0FFh	
+_Eep_Pgm_Startup_Rpm:		DB	0FFh
+_Eep_Pgm_Startup_Accel:		DB	0FFh
+_Eep_Pgm_Volt_Comp:			DB	0FFh
 Eep_Pgm_Comm_Timing:		DB	DEFAULT_PGM_MAIN_COMM_TIMING		; EEPROM copy of programmed commutation timing
 _Eep_Pgm_Damping_Force:		DB	0FFh						
 Eep_Pgm_Gov_Range:			DB	DEFAULT_PGM_MAIN_GOVERNOR_RANGE	; EEPROM copy of programmed governor range
-_Eep_Pgm_Startup_Method:		DB	0FFh	
+_Eep_Pgm_Startup_Method:		DB	0FFh
 Eep_Pgm_Ppm_Min_Throttle:	DB	DEFAULT_PGM_PPM_MIN_THROTTLE		; EEPROM copy of programmed minimum throttle (final value is 4x+1000=1148)
 Eep_Pgm_Ppm_Max_Throttle:	DB	DEFAULT_PGM_PPM_MAX_THROTTLE		; EEPROM copy of programmed minimum throttle (final value is 4x+1000=1832)
 Eep_Pgm_Beep_Strength:		DB	DEFAULT_PGM_MAIN_BEEP_STRENGTH	; EEPROM copy of programmed beep strength
 Eep_Pgm_Beacon_Strength:		DB	DEFAULT_PGM_MAIN_BEACON_STRENGTH	; EEPROM copy of programmed beacon strength
 Eep_Pgm_Beacon_Delay:		DB	DEFAULT_PGM_MAIN_BEACON_DELAY		; EEPROM copy of programmed beacon delay
-_Eep_Pgm_Throttle_Rate:		DB	0FFh	
+_Eep_Pgm_Throttle_Rate:		DB	0FFh
 Eep_Pgm_Demag_Comp:			DB	DEFAULT_PGM_MAIN_DEMAG_COMP		; EEPROM copy of programmed demag compensation
 Eep_Pgm_BEC_Voltage_High:	DB	DEFAULT_PGM_BEC_VOLTAGE_HIGH		; EEPROM copy of programmed BEC voltage
-_Eep_Pgm_Ppm_Center_Throttle:	DB	0FFh							
+_Eep_Pgm_Ppm_Center_Throttle:	DB	0FFh
 Eep_Pgm_Main_Spoolup_Time:	DB	DEFAULT_PGM_MAIN_SPOOLUP_TIME		; EEPROM copy of programmed main spoolup time
 Eep_Pgm_Temp_Prot_Enable:	DB	DEFAULT_PGM_ENABLE_TEMP_PROT		; EEPROM copy of programmed temperature protection enable
 Eep_Pgm_Enable_Power_Prot:	DB	DEFAULT_PGM_ENABLE_POWER_PROT		; EEPROM copy of programmed low rpm power protection enable
 Eep_Pgm_Enable_Pwm_Input:	DB	DEFAULT_PGM_ENABLE_PWM_INPUT		; EEPROM copy of programmed PWM input signal enable
-_Eep_Pgm_Pwm_Dither:		DB	0FFh	
+_Eep_Pgm_Pwm_Dither:		DB	0FFh
 Eep_Pgm_Brake_On_Stop:		DB	DEFAULT_PGM_BRAKE_ON_STOP		; EEPROM copy of programmed braking when throttle is zero
 ENDIF 
 
 IF MODE == 1
-_Eep_Pgm_Gov_P_Gain:		DB	0FFh							
-_Eep_Pgm_Gov_I_Gain:		DB	0FFh							
-_Eep_Pgm_Gov_Mode:			DB 	0FFh							
-_Eep_Pgm_Low_Voltage_Lim:	DB	0FFh							
+_Eep_Pgm_Gov_P_Gain:		DB	0FFh
+_Eep_Pgm_Gov_I_Gain:		DB	0FFh
+_Eep_Pgm_Gov_Mode:			DB 	0FFh
+_Eep_Pgm_Low_Voltage_Lim:	DB	0FFh
 Eep_Pgm_Motor_Gain:			DB	DEFAULT_PGM_TAIL_GAIN			; EEPROM copy of programmed tail gain
 Eep_Pgm_Motor_Idle:			DB	DEFAULT_PGM_TAIL_IDLE_SPEED		; EEPROM copy of programmed tail idle speed
 Eep_Pgm_Startup_Pwr:		DB	DEFAULT_PGM_TAIL_STARTUP_PWR		; EEPROM copy of programmed startup power
@@ -2739,14 +2741,14 @@ Eep_Pgm_Input_Pol:			DB	DEFAULT_PGM_TAIL_RCP_PWM_POL		; EEPROM copy of programme
 Eep_Initialized_L:			DB	05Ah							; EEPROM initialized signature low byte
 Eep_Initialized_H:			DB	0A5h							; EEPROM initialized signature high byte
 Eep_Enable_TX_Program:		DB	DEFAULT_PGM_ENABLE_TX_PROGRAM		; EEPROM TX programming enable
-_Eep_Main_Rearm_Start:		DB	0FFh							
-_Eep_Pgm_Gov_Setup_Target:	DB	0FFh							
+_Eep_Main_Rearm_Start:		DB	0FFh
+_Eep_Pgm_Gov_Setup_Target:	DB	0FFh
 _Eep_Pgm_Startup_Rpm:		DB	0FFh
 _Eep_Pgm_Startup_Accel:		DB	0FFh
-_Eep_Pgm_Volt_Comp:			DB	0FFh	
+_Eep_Pgm_Volt_Comp:			DB	0FFh
 Eep_Pgm_Comm_Timing:		DB	DEFAULT_PGM_TAIL_COMM_TIMING		; EEPROM copy of programmed commutation timing
 _Eep_Pgm_Damping_Force:		DB	0FFh
-_Eep_Pgm_Gov_Range:			DB	0FFh	
+_Eep_Pgm_Gov_Range:			DB	0FFh
 _Eep_Pgm_Startup_Method:		DB	0FFh
 Eep_Pgm_Ppm_Min_Throttle:	DB	DEFAULT_PGM_PPM_MIN_THROTTLE		; EEPROM copy of programmed minimum throttle (final value is 4x+1000=1148)
 Eep_Pgm_Ppm_Max_Throttle:	DB	DEFAULT_PGM_PPM_MAX_THROTTLE		; EEPROM copy of programmed minimum throttle (final value is 4x+1000=1832)
@@ -2773,20 +2775,20 @@ _Eep_Pgm_Low_Voltage_Lim:	DB	0FFh
 Eep_Pgm_Motor_Gain:			DB	DEFAULT_PGM_MULTI_GAIN			; EEPROM copy of programmed tail gain
 _Eep_Pgm_Motor_Idle:		DB	0FFh							; EEPROM copy of programmed tail idle speed
 Eep_Pgm_Startup_Pwr:		DB	DEFAULT_PGM_MULTI_STARTUP_PWR		; EEPROM copy of programmed startup power
-Eep_Pgm_Pwm_Freq:			DB	DEFAULT_PGM_MULTI_PWM_FREQ		; EEPROM copy of programmed pwm frequency
-Eep_Pgm_Direction:			DB	DEFAULT_PGM_MULTI_DIRECTION		; EEPROM copy of programmed rotation direction
+Eep_Pgm_Pwm_Freq:			DB	DEFAULT_PGM_MULTI_PWM_FREQ		; EEPROM copy of programmed pwm frequency, 1=High 		2=Low		3=DampedLight
+Eep_Pgm_Direction:			DB	DEFAULT_PGM_MULTI_DIRECTION		; EEPROM copy of programmed rotation direction, 1=Normal 	2=Reversed	3=Bidirectional
 Eep_Pgm_Input_Pol:			DB	DEFAULT_PGM_MULTI_RCP_PWM_POL		; EEPROM copy of programmed input polarity
-Eep_Initialized_L:			DB	055h							; EEPROM initialized signature low byte
+Eep_Initialized_L:			DB	055h							; EEPROM initialized signature low byte, indica que os dados da e2prom sï¿½o para Multirotor (Mode=2)
 Eep_Initialized_H:			DB	0AAh							; EEPROM initialized signature high byte
 Eep_Enable_TX_Program:		DB	DEFAULT_PGM_ENABLE_TX_PROGRAM		; EEPROM TX programming enable
-_Eep_Main_Rearm_Start:		DB	0FFh							
-_Eep_Pgm_Gov_Setup_Target:	DB	0FFh							
+_Eep_Main_Rearm_Start:		DB	0FFh
+_Eep_Pgm_Gov_Setup_Target:	DB	0FFh
 _Eep_Pgm_Startup_Rpm:		DB	0FFh
 _Eep_Pgm_Startup_Accel:		DB	0FFh
-_Eep_Pgm_Volt_Comp:			DB	0FFh	
+_Eep_Pgm_Volt_Comp:			DB	0FFh
 Eep_Pgm_Comm_Timing:		DB	DEFAULT_PGM_MULTI_COMM_TIMING		; EEPROM copy of programmed commutation timing
 _Eep_Pgm_Damping_Force:		DB	0FFh
-_Eep_Pgm_Gov_Range:			DB	0FFh	
+_Eep_Pgm_Gov_Range:			DB	0FFh
 _Eep_Pgm_Startup_Method:		DB	0FFh
 Eep_Pgm_Ppm_Min_Throttle:	DB	DEFAULT_PGM_PPM_MIN_THROTTLE		; EEPROM copy of programmed minimum throttle (final value is 4x+1000=1148)
 Eep_Pgm_Ppm_Max_Throttle:	DB	DEFAULT_PGM_PPM_MAX_THROTTLE		; EEPROM copy of programmed minimum throttle (final value is 4x+1000=1832)
@@ -2808,7 +2810,7 @@ ENDIF
 Eep_Dummy:				DB	0FFh							; EEPROM address for safety reason
 
 CSEG AT 1A60h
-Eep_Name:					DB	"                "				; Name tag (16 Bytes)
+Eep_Name:					DB	"Dr.Rod          "				; Name tag (16 Bytes)
 
 ;**** **** **** **** ****
 		Interrupt_Table_Definition		; SiLabs interrupts
@@ -2938,10 +2940,10 @@ ENDIF
 
 IF DAMPED_MODE_ENABLE == 1
 	; Do not execute pwm off when stopped
-	jnb	Flags1.MOTOR_SPINNING, t0_int_pwm_off_exit
+	jnb	Flags1.MOTOR_SPINNING, t0_int_pwm_off_exit ; Jump if bit is not set
 
 	; If damped operation, set pFETs on in pwm_off
-	jb	Flags2.PGM_PWMOFF_DAMPED, t0_int_pwm_off_damped	; Damped operation?
+	jb	Flags2.PGM_PWMOFF_DAMPED, t0_int_pwm_off_damped	; Damped operation? Jump if bit is set
 ENDIF
 
 t0_int_pwm_off_exit_nfets_off:	
@@ -3920,14 +3922,14 @@ ENDIF
 
 	mov	Temp1, #Pgm_Ppm_Min_Throttle		; Min throttle value is in 4us units
 IF MODE >= 1	; Tail or multi
-	cjne	Temp2, #3, ($+5)
+	cjne	Temp2, #3, ($+5) ; compara e jump se nao for igual
 
 	mov	Temp1, #Pgm_Ppm_Center_Throttle	; Center throttle value is in 4us units
 ENDIF
 	mov	A, @Temp1				
 
 pca_int_ppm_calculate:
-	add	A, #250						; Add 1000us to minimum
+	add	A, #250						; Add (4us*250) 1000us to minimum
 	mov	Temp7, A
 	clr	A
 	addc	A, #0
@@ -4222,7 +4224,7 @@ beep_anfet_off:
 	jnb	ACC.0, beep_cnfet_off
 	CnFET_off			; CnFET off
 beep_cnfet_off:
-	mov	A, #150		; 25µs off
+	mov	A, #150		; 25ï¿½s off
 	djnz	ACC, $		
 	djnz	Temp2, beep_onoff
 	; Copy variable
@@ -4370,7 +4372,7 @@ mult_s16_by_u8_exit:
 	mov	A, Temp1		; Store output
 	mov	B, Temp2
 	clr	PSW.4		; Select normal register bank
-	mov	Temp1, A		
+	mov	Temp1, A
 	mov	Temp2, B
 	ret
 
@@ -4522,11 +4524,11 @@ calc_governor_store_target:
 	mov	Gov_Target_L, Temp1
 	mov	Gov_Target_H, Temp2
 calc_governor_target_exit:
-	ret						
+	ret
 ENDIF
 IF MODE == 1	; Tail
 calc_governor_target:
-	ret						
+	ret
 ENDIF
 IF MODE == 2	; Multi
 calc_governor_target:
@@ -4930,6 +4932,8 @@ calc_governor_int_corr_exit:
 ; No assumptions
 ;
 ; Sets power limit for low rpms and disables demag for low rpms
+;	Tales
+;	Define novos limites de potencia para condiï¿½ï¿½o de baixa RPM
 ;
 ;**** **** **** **** **** **** **** **** **** **** **** **** ****
 set_pwm_limit_low_rpm:
@@ -4937,7 +4941,7 @@ set_pwm_limit_low_rpm:
 	mov	Temp1, #0FFh					; Default full power
 	jb	Flags1.STARTUP_PHASE, set_pwm_limit_low_rpm_exit	; Exit if startup phase set
 
-	mov	Temp2, #Pgm_Enable_Power_Prot		; Check if low RPM power protection is enabled
+	mov	Temp2, #Pgm_Enable_Power_Prot		; Tales - Check if low RPM power protection is enabled "DEFAULT_PGM_ENABLE_POWER_PROT"
 	mov	A, @Temp2
 	jz	set_pwm_limit_low_rpm_exit		; Exit if disabled
 
@@ -4951,11 +4955,11 @@ set_pwm_limit_low_rpm:
 	jnb	Flags1.INITIAL_RUN_PHASE, ($+6)	; More protection for initial run phase 
 	mov	B, #5
 	mul	AB
-	mov	Temp1, A						; Set new limit				
+	mov	Temp1, A						; Set new limit
 	xch	A, B
 	jz	($+4)						; Limit to max
 	
-	mov	Temp1, #0FFh				
+	mov	Temp1, #0FFh
 
 	clr	C
 	mov	A, Temp1						; Limit to min
@@ -5331,7 +5335,7 @@ ENDIF
 IF MODE == 1	; Tail
 	; Increase pwm limit
 	mov  A, Pwm_Limit
-	cpl	A			
+	cpl	A
 	jz	check_voltage_lim			; If limit max - branch
 
 	inc	Pwm_Limit					; Increment limit
@@ -5404,7 +5408,7 @@ set_startup_pwm:
 	mov	Temp1, A						; Transfer to Temp1
 	clr	C
 	mov	A, Temp1						; Check against limit
-	subb	A, Pwm_Limit	
+	subb	A, Pwm_Limit
 	jc	startup_pwm_set_pwm				; If pwm below limit - branch
 
 	mov	Temp1, Pwm_Limit				; Limit pwm
@@ -5569,10 +5573,10 @@ calc_next_comm_normal:
 
 calc_next_comm_avg_period_div:
 	clr	C
-	mov	A, Temp6					
+	mov	A, Temp6
 	rrc	A					; Divide by 2
 	mov	Temp6, A	
-	mov	A, Temp5				
+	mov	A, Temp5
 	rrc	A
 	mov	Temp5, A
 	djnz	Temp7, calc_next_comm_avg_period_div
@@ -5589,10 +5593,10 @@ calc_next_comm_avg_period_div:
 
 calc_next_comm_new_period_div:
 	clr	C
-	mov	A, Temp2					
+	mov	A, Temp2
 	rrc	A					; Divide by 2
-	mov	Temp2, A	
-	mov	A, Temp1				
+	mov	Temp2, A
+	mov	A, Temp1
 	rrc	A
 	mov	Temp1, A
 	djnz	Temp8, calc_next_comm_new_period_div
@@ -5612,7 +5616,7 @@ calc_next_comm_new_period_div_done:
 	mov	Comm_Period4x_L, Temp4	; Set commutation period registers to very slow timing (0xffff)
 	mov	Comm_Period4x_H, Temp4
 
-calc_new_wait_times_setup:	
+calc_new_wait_times_setup:
 	; Set high rpm bit (if above 156k erpm)
 	clr	C
 	mov	A, Temp4
@@ -5673,7 +5677,7 @@ calc_new_wait_per_demag_done:
 	mov	A, Temp1
 	subb	A, Temp7
 	mov	Temp3, A
-	mov	A, Temp2				
+	mov	A, Temp2
 	subb	A, #0
 	mov	Temp4, A
 	jc	load_min_time			; Check that result is still positive
@@ -5966,10 +5970,10 @@ wait_before_zc_scan:
 
 	xrl	A, #06Bh		; Sequence length of 35, when initialized to 1
 
-wait_before_zc_scan_rand:          
+wait_before_zc_scan_rand:
 	mov	Random, A
 
-wait_before_zc_scan_wait:          
+wait_before_zc_scan_wait:
 	jnb	Flags0.T3_PENDING, ($+5)
 	ajmp	wait_before_zc_scan_wait
 
@@ -6063,7 +6067,7 @@ wait_for_comp_out_start:
 	clr	Flags0.DEMAG_DETECTED
 
 	mov	Temp2, #20 				; Too low value (~<15) causes rough running at pwm harmonics. Too high a value (~>35) causes the RCT4215 630 to run rough on full throttle
-	mov 	A, Comm_Period4x_H			; Set number of readings higher for lower speeds	
+	mov 	A, Comm_Period4x_H			; Set number of readings higher for lower speeds
 	clr	C
 	rrc	A
 	jnz	($+3)
@@ -6133,7 +6137,7 @@ comp_read_wrong_not_startup:
 	inc	Temp1					; Increment number of OK readings required
 	clr	C
 	mov	A, Temp1
-	subb	A, Temp2					
+	subb	A, Temp2
 	jc	($+4)
 	ajmp	wait_for_comp_out_start		; If above initial requirement - go back and restart
 
@@ -6144,7 +6148,7 @@ comp_read_wrong_extend_timeout:
 	clr	EA
 	anl	EIE1, #7Fh				; Disable timer3 interrupts
 	mov	TMR3CN, #00h				; Timer3 disabled and interrupt flag cleared
-	jnb	Flags0.HIGH_RPM, comp_read_wrong_low_rpm	; Branch if not high rpm	
+	jnb	Flags0.HIGH_RPM, comp_read_wrong_low_rpm	; Branch if not high rpm
 
 	mov	TMR3L, #00h				; Set timeout to ~1ms
 IF MCU_48MHZ == 1
@@ -6188,12 +6192,12 @@ comp_read_wrong_load_timeout:
 
 comp_read_ok:
 	clr	C
-	mov	A, Startup_Cnt				; Force a timeout for the first commutation		
+	mov	A, Startup_Cnt				; Force a timeout for the first commutation
 	subb	A, #1
 	jnc	($+4)
 	ajmp	wait_for_comp_out_start
 
-	jnb	Flags0.DEMAG_DETECTED, ($+5)	; Do not accept correct comparator output if it is demag	
+	jnb	Flags0.DEMAG_DETECTED, ($+5)	; Do not accept correct comparator output if it is demag
 	ajmp	wait_for_comp_out_start
 
 	djnz	Temp1, comp_read_ok_jmp		; Decrement readings counter - repeat comparator reading if not zero
@@ -6907,11 +6911,12 @@ ENDIF
 ; No assumptions
 ;
 ; Decodes programming parameters
+; Configura a direcao de rotacao e a frequencia do PWM 8/22Khz
 ;
 ;**** **** **** **** **** **** **** **** **** **** **** **** ****
 decode_parameters:
 	; Load programmed pwm frequency
-	mov	Temp1, #Pgm_Pwm_Freq	; Load pwm freq
+	mov	Temp1, #Pgm_Pwm_Freq	; Load pwm freq, 1=High 		2=Low		3=DampedLight
 	mov	A, @Temp1				
 	mov	Temp8, A				; Store in Temp8
 	clr	Flags2.PGM_PWMOFF_DAMPED
@@ -6920,12 +6925,12 @@ IF DAMPED_MODE_ENABLE == 1
 	setb	Flags2.PGM_PWMOFF_DAMPED
 ENDIF
 	; Load programmed direction
-	mov	Temp1, #Pgm_Direction	
+	mov	Temp1, #Pgm_Direction	; 1=Normal 	2=Reversed	3=Bidirectional
 IF MODE >= 1	; Tail or multi
 	mov	A, @Temp1				
 	clr	C
-	subb	A, #3
-	jz	decode_params_dir_set
+	subb	A, #3	; Subtrai 3 do Acc
+	jz	decode_params_dir_set	; redireciona se Acc for zero
 ENDIF
 
 	clr	Flags3.PGM_DIR_REV
@@ -6939,9 +6944,14 @@ decode_params_dir_set:
 	jnb	ACC.1, ($+5)
 	setb	Flags3.PGM_RCP_PWM_POL
 	clr	C
-	mov	A, Temp8			
-	subb	A, #2
-	jz	decode_pwm_freq_low
+	mov	A, Temp8	; 1=High 		2=Low		3=DampedLight
+	subb	A, #2	; Testa se freq. LOW
+
+; Comando adicionado abaixo faz pular direto para configuracao do PWM em 8KHz (sysclk/12)
+; estamos fazendo isso pois alguns motores de indultancia elevada >30uH nao
+; estao iniciando adequadamente em 22KHz
+;	jz	decode_pwm_freq_low
+	sjmp	decode_pwm_freq_low	; Short jump
 
 	mov	CKCON, #01h		; Timer0 set for clk/4 (22kHz pwm)
 	setb	Flags2.PGM_PWM_HIGH_FREQ
@@ -6987,10 +6997,10 @@ decode_settings:
 	mov	DPTR, #STARTUP_POWER_TABLE
 	movc A, @A+DPTR	
 	mov	Temp1, #Pgm_Startup_Pwr_Decoded
-	mov	@Temp1, A	
+	mov	@Temp1, A
 IF MODE == 0	; Main
 	; Decode spoolup time
-	mov	Temp1, #Pgm_Main_Spoolup_Time		
+	mov	Temp1, #Pgm_Main_Spoolup_Time
 	mov	A, @Temp1
 	mov	Temp1, A		; Store
 	jnz	decode_main_spoolup_nonzero	; If not zero - branch
@@ -7067,7 +7077,7 @@ set_bec_voltage:
 	; Set bec voltage
 IF HIGH_BEC_VOLTAGE == 1
 	Set_BEC_Lo			; Set default to low
-	mov	Temp1, #Pgm_BEC_Voltage_High		
+	mov	Temp1, #Pgm_BEC_Voltage_High
 	mov	A, @Temp1				
 	jz	set_bec_voltage_exit	
 
@@ -7077,9 +7087,9 @@ set_bec_voltage_exit:
 ENDIF
 IF HIGH_BEC_VOLTAGE == 2
 	Set_BEC_0				; Set default to low
-	mov	Temp1, #Pgm_BEC_Voltage_High		
-	mov	A, @Temp1				
-	cjne	A, #1, set_bec_voltage_2	
+	mov	Temp1, #Pgm_BEC_Voltage_High
+	mov	A, @Temp1
+	cjne	A, #1, set_bec_voltage_2
 
 	Set_BEC_1				; Set to level 1
 
@@ -7105,26 +7115,26 @@ ENDIF
 find_throttle_gain:
 	; Load programmed minimum and maximum throttle
 	mov	Temp1, #Pgm_Ppm_Min_Throttle
-	mov	A, @Temp1				
-	mov	Temp3, A			
+	mov	A, @Temp1
+	mov	Temp3, A
 	mov	Temp1, #Pgm_Ppm_Max_Throttle
-	mov	A, @Temp1				
-	mov	Temp4, A			
+	mov	A, @Temp1
+	mov	Temp4, A
 	mov	Temp1, #Pgm_Direction	; Check if bidirectional operation
-	mov	A, @Temp1				
+	mov	A, @Temp1
 	cjne	A, #3, find_throttle_gain_check_full
 
 	clr	C
-	mov	A, Temp4			
+	mov	A, Temp4
 	subb	A, #14				; Compensate for higher deadband in bidirectional
-	mov	Temp4, A			
+	mov	Temp4, A
 
 find_throttle_gain_check_full:
 	; Check if full range is chosen
 	jnb	Flags3.FULL_THROTTLE_RANGE, find_throttle_gain_calculate
 
-	mov	Temp3, #0			
-	mov	Temp4, #255		
+	mov	Temp3, #0
+	mov	Temp4, #255
 
 find_throttle_gain_calculate:
 	; Calculate difference
@@ -7213,7 +7223,7 @@ pgm_start:
 	mov	Flash_Key_1, #0
 	mov	Flash_Key_2, #0
 	; Check flash lock byte
-	mov	A, RSTSRC			
+	mov	A, RSTSRC
 	jb	ACC.6, ($+6)		; Check if flash access error was reset source 
 
 	mov	Bit_Access, #0		; No - then this is the first try
@@ -7286,31 +7296,31 @@ ENDIF
 
 reset_cal_done:
 	; Switch power off
-	call	switch_power_off
+	call	switch_power_off ; desliga os fets
 	; Ports initialization
-	mov	P0, #P0_INIT				
-	mov	P0MDOUT, #P0_PUSHPULL				
-	mov	P0MDIN, #P0_DIGITAL				
-	mov	P0SKIP, #P0_SKIP				
-	mov	P1, #P1_INIT				
-	mov	P1MDOUT, #P1_PUSHPULL				
-	mov	P1MDIN, #P1_DIGITAL				
-	mov	P1SKIP, #P1_SKIP				
+	mov	P0, #P0_INIT
+	mov	P0MDOUT, #P0_PUSHPULL
+	mov	P0MDIN, #P0_DIGITAL
+	mov	P0SKIP, #P0_SKIP
+	mov	P1, #P1_INIT
+	mov	P1MDOUT, #P1_PUSHPULL
+	mov	P1MDIN, #P1_DIGITAL
+	mov	P1SKIP, #P1_SKIP
 IF PORT3_EXIST == 1
-	mov	P2, #P2_INIT				
+	mov	P2, #P2_INIT
 ENDIF
-	mov	P2MDOUT, #P2_PUSHPULL				
+	mov	P2MDOUT, #P2_PUSHPULL
 IF PORT3_EXIST == 1
-	mov	P2MDIN, #P2_DIGITAL				
-	mov	P2SKIP, #P2_SKIP				
-	mov	P3, #P3_INIT				
-	mov	P3MDOUT, #P3_PUSHPULL				
-	mov	P3MDIN, #P3_DIGITAL				
+	mov	P2MDIN, #P2_DIGITAL
+	mov	P2SKIP, #P2_SKIP
+	mov	P3, #P3_INIT
+	mov	P3MDOUT, #P3_PUSHPULL
+	mov	P3MDIN, #P3_DIGITAL
 ENDIF
 	; Initialize the XBAR and related functionality
 	Initialize_Xbar
 	; Switch power off again, after initializing ports
-	call	switch_power_off
+	call	switch_power_off ; Desliga os fets
 	; Clear RAM
 	clr	A				; Clear accumulator
 	mov	Temp1, A			; Clear Temp1
@@ -7328,7 +7338,8 @@ clear_ram:
 	mov	Beep_Strength, @Temp1
 	; Set initial arm variable
 	mov	Initial_Arm, #1
-	; Initializing beep
+
+	; Initializing beep (3 beeps iniciais para sinalizar que o ESC esta ativo)
 	clr	EA				; Disable interrupts explicitly
 	call wait200ms	
 	call beep_f1
@@ -7363,12 +7374,12 @@ input_high_check_1:
 input_high_check_2:
 	jnb	RTX_PORT.RTX_PIN, bootloader_done	; Look for low
 	djnz	Temp2, input_high_check_2
-	djnz	Temp1, input_high_check_1
+	djnz	Temp1, input_high_check_1	; Decrementa Temp1 e pula se nï¿½o for zero
 
 	ljmp	1C00h			; Jump to bootloader
 
 bootloader_done:
-	; Decode parameters
+	; Decode parameters, set direction and PWM freq.
 	call	decode_parameters
 	; Decode settings
 	call	decode_settings
@@ -7805,19 +7816,19 @@ wait_for_power_on_check_timeout:
 ;**** **** **** **** **** **** **** **** **** **** **** **** ****
 init_start:
 	clr	EA
-	call switch_power_off
-	clr	A
-	mov	Requested_Pwm, A		; Set requested pwm to zero
+	call switch_power_off ; Desliga os fets
+	clr	A ; Seta A em zero
+	mov	Requested_Pwm, A		; Set requested pwm to zero, Move "A" para o registrador
 	mov	Governor_Req_Pwm, A		; Set governor requested pwm to zero
 	mov	Current_Pwm, A			; Set current pwm to zero
 	mov	Current_Pwm_Limited, A	; Set limited current pwm to zero
 	mov	Current_Pwm_Lim_Dith, A
 	mov	Pwm_Dither_Excess_Power, A
 	setb	EA
-	mov	Temp1, #Pgm_Motor_Idle	; Set idle pwm to programmed value	
+	mov	Temp1, #Pgm_Motor_Idle	; Set idle pwm to programmed value, parece que ï¿½ 0hFF
 	mov	A, @Temp1				
-	clr	C
-	rlc	A
+	clr	C ; Clear carry
+	rlc	A ; Rotate A left through carry
 	mov	Pwm_Motor_Idle, A
 	clr	A
 	mov	Gov_Target_L, A		; Set target to zero
@@ -7849,10 +7860,11 @@ read_initial_temp:
 	mov	Adc_Conversion_Cnt, #TEMP_CHECK_RATE	; Make sure a temp reading is done next time
 	Set_Adc_Ip_Temp
 	; Set up start operating conditions
-	call	decode_parameters		; (Decode_parameters uses Temp1 and Temp8)
+	call	decode_parameters		; (Decode_parameters uses Temp1 and Temp8), set direction and PWM freq.
 	; Set max allowed power
 	clr	EA					; Disable interrupts to avoid that Requested_Pwm is overwritten
 	mov	Pwm_Limit, #0FFh		; Set pwm limit to max
+
 	call set_startup_pwm
 	mov	Pwm_Limit, Requested_Pwm
 	mov	Pwm_Limit_Spoolup, Requested_Pwm
@@ -7870,8 +7882,9 @@ IF MCU_48MHZ == 1
 ENDIF
 	mov	Temp1, #Pgm_Direction		; Check if bidirectional operation
 	mov	A, @Temp1				
-	cjne	A, #3, init_start_bidir_done
+	cjne	A, #3, init_start_bidir_done	; Se nao for bidirecional pula a verificaï¿½ï¿½o
 
+	; Se for bidirecional verifica pra que lado deve girar
 	clr	Flags3.PGM_DIR_REV			; Set spinning direction. Default fwd
 	jnb	Flags2.RCP_DIR_REV, ($+5)	; Check force direction
 	setb	Flags3.PGM_DIR_REV			; Set spinning direction
@@ -7893,6 +7906,7 @@ init_start_bidir_done:
 ;**** **** **** **** **** **** **** **** **** **** **** **** ****
 ;
 ; Run entry point
+; Tenta inicializar o motor em modo steper
 ;
 ;**** **** **** **** **** **** **** **** **** **** **** **** ****
 
@@ -7934,7 +7948,7 @@ run2:
 run3:
 	call wait_for_comp_out_high
 ;	 	setup_comm_wait	
-;	 	evaluate_comparator_integrity	
+;	 	evaluate_comparator_integrity
 	jnb	Flags1.GOV_ACTIVE, ($+6)
 	lcall calc_governor_int_error
 	call wait_for_comm
@@ -7949,7 +7963,7 @@ run3:
 run4:
 	call wait_for_comp_out_low
 ;	 	setup_comm_wait	
-;	 	evaluate_comparator_integrity	
+;	 	evaluate_comparator_integrity
 	jnb	Flags1.GOV_ACTIVE, ($+6)
 	lcall calc_governor_prop_correction
 	call wait_for_comm
@@ -7964,7 +7978,7 @@ run4:
 run5:
 	call wait_for_comp_out_high
 ;	 	setup_comm_wait	
-;	 	evaluate_comparator_integrity	
+;	 	evaluate_comparator_integrity
 	jnb	Flags1.GOV_ACTIVE, ($+6)
 	lcall calc_governor_int_correction
 	call wait_for_comm
@@ -7980,7 +7994,7 @@ run6:
 	call start_adc_conversion
 	call wait_for_comp_out_low
 ;	 	setup_comm_wait	
-;	 	evaluate_comparator_integrity	
+;	 	evaluate_comparator_integrity
 	call wait_for_comm
 	call comm6comm1
 	call check_temp_voltage_and_limit_power
@@ -8023,7 +8037,7 @@ direct_start_check_rcp:
 	subb	A, #RCP_STOP				; Check if pulse is below stop value
 	jc	($+5)
 
-	ljmp	run1						; Continue to run 
+	ljmp	run1						; Continue to run
 
 	jmp	run_to_wait_for_power_on
 
@@ -8051,7 +8065,7 @@ normal_run_check_startup_rot:
 	subb	A, #RCP_STOP				; Check if pulse is below stop value
 	jc	($+5)
 
-	ljmp	run1						; Continue to run 
+	ljmp	run1						; Continue to run
 
 	mov	Temp1, #Pgm_Direction		; Check if bidirectional operation
 	mov	A, @Temp1	
@@ -8073,7 +8087,7 @@ IF MODE == 0	; Main
 
 	mov	Pwm_Limit_Spoolup, Pwm_Spoolup_Beg		; If yes - set initial max powers
 	mov	Spoolup_Limit_Cnt, Auto_Bailout_Armed	; And set spoolup parameters
-	mov	Spoolup_Limit_Skip, #1			
+	mov	Spoolup_Limit_Skip, #1
 
 run6_check_rcp_stop_count:
 ENDIF
@@ -8128,7 +8142,7 @@ run6_brake_done:
 	clr	C
 	mov	A, Comm_Period4x_H			; Is Comm_Period4x more than 32ms (~1220 eRPM)?
 	subb	A, Temp1
-	jnc	($+4)					; Yes - stop or turn direction 
+	jnc	($+4)					; Yes - stop or turn direction
 	ajmp	run1						; No - go back to run 1
 
 IF MODE >= 1	; Tail or multi
@@ -8141,16 +8155,16 @@ IF MODE >= 1	; Tail or multi
 	setb	Flags1.INITIAL_RUN_PHASE		
 	mov	Initial_Run_Rot_Cntd, #18
 	mov	Pwm_Limit, Pwm_Spoolup_Beg	; Set initial max power
-	ajmp	run1						; Go back to run 1 
+	ajmp	run1						; Go back to run 1
 ENDIF
 
 run_to_wait_for_power_on_fail:	
 	inc	Stall_Cnt					; Increment stall count
-	mov	A, New_Rcp				; Check if RCP is zero, then it is a normal stop			
+	mov	A, New_Rcp				; Check if RCP is zero, then it is a normal stop
 	jz	run_to_wait_for_power_on
 	ajmp	run_to_wait_for_power_on_stall_done
 
-run_to_wait_for_power_on:	
+run_to_wait_for_power_on:
 	mov	Stall_Cnt, #0
 
 run_to_wait_for_power_on_stall_done:
@@ -8160,8 +8174,8 @@ run_to_wait_for_power_on_stall_done:
 	mov	A, @Temp1	
 	mov	Temp7, A					; Store setting in Temp7
 	mov	@Temp1, #2				; Set low pwm mode (in order to turn off damping)
-	call	decode_parameters			; (Decode_parameters uses Temp1 and Temp8)
-	mov	Temp1, #Pgm_Pwm_Freq
+	call	decode_parameters			; (Decode_parameters uses Temp1 and Temp8), set direction and PWM freq.
+	mov	Temp1, #Pgm_Pwm_Freq	; 1=High 		2=Low		3=DampedLight
 	mov	A, Temp7
 	mov	@Temp1, A					; Restore settings
 	clr	A
@@ -8211,8 +8225,8 @@ IF MODE >= 1	; Tail or multi
 
 	clr	C
 	mov	A, Stall_Cnt
-	subb	A, #4
-	jc	jmp_wait_for_power_on
+	subb	A, #4	; Subtract#4 from A
+	jc	jmp_wait_for_power_on ; jump if carry is set
 	jmp	init_no_signal
 
 jmp_wait_for_power_on:
@@ -8226,12 +8240,9 @@ $include (BLHeliBootLoad.inc)			; Include source code for bootloader
 ;**** **** **** **** **** **** **** **** **** **** **** **** ****
 
 
-
 CSEG AT 19FDh
 reset:
 ljmp	pgm_start
-
-
 
 
 END
